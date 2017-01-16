@@ -1,0 +1,35 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.fblogin781538"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.fblogin781538"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.fblogin781538"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.fblogin781538"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.fblogin781538"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.fblogin781538"
+        },
+        "phonegap-facebook-plugin": {
+            "APP_ID": "1221884961227558",
+            "APP_NAME": "ganesan",
+            "PACKAGE_NAME": "com.ionicframework.fblogin781538"
+        }
+    },
+    "dependent_plugins": {}
+}
